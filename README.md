@@ -1,2 +1,3 @@
-# console-base-brigades
+# Консольная программа для реализации базы данных бригад
+Т
 C# console base brigades
