@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseBrigade2", "BaseBrigade2\BaseBrigade2.csproj", "{2E8EE517-D0DD-4946-B3AF-908714068AA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E8EE517-D0DD-4946-B3AF-908714068AA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E8EE517-D0DD-4946-B3AF-908714068AA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E8EE517-D0DD-4946-B3AF-908714068AA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E8EE517-D0DD-4946-B3AF-908714068AA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AEA76E5-B810-45A7-BE4F-2DB5C9C251B7}
+	EndGlobalSection
+EndGlobal

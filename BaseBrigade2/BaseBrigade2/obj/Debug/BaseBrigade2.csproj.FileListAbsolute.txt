@@ -1,0 +1,14 @@
+C:\Users\kkpfe\Desktop\BaseBrigade2\BaseBrigade2\bin\Debug\BaseBrigade2.exe.config
+C:\Users\kkpfe\Desktop\BaseBrigade2\BaseBrigade2\bin\Debug\BaseBrigade2.exe
+C:\Users\kkpfe\Desktop\BaseBrigade2\BaseBrigade2\bin\Debug\BaseBrigade2.pdb
+C:\Users\kkpfe\Desktop\BaseBrigade2\BaseBrigade2\obj\Debug\BaseBrigade2.csproj.AssemblyReference.cache
+C:\Users\kkpfe\Desktop\BaseBrigade2\BaseBrigade2\obj\Debug\BaseBrigade2.csproj.CoreCompileInputs.cache
+C:\Users\kkpfe\Desktop\BaseBrigade2\BaseBrigade2\obj\Debug\BaseBrigade2.exe
+C:\Users\kkpfe\Desktop\BaseBrigade2\BaseBrigade2\obj\Debug\BaseBrigade2.pdb
+C:\Users\kkpfe\Desktop\Репетиторство\Задание от Вовы\Прога 4 База бригад\С#\BaseBrigade2\BaseBrigade2\bin\Debug\BaseBrigade2.exe.config
+C:\Users\kkpfe\Desktop\Репетиторство\Задание от Вовы\Прога 4 База бригад\С#\BaseBrigade2\BaseBrigade2\bin\Debug\BaseBrigade2.exe
+C:\Users\kkpfe\Desktop\Репетиторство\Задание от Вовы\Прога 4 База бригад\С#\BaseBrigade2\BaseBrigade2\bin\Debug\BaseBrigade2.pdb
+C:\Users\kkpfe\Desktop\Репетиторство\Задание от Вовы\Прога 4 База бригад\С#\BaseBrigade2\BaseBrigade2\obj\Debug\BaseBrigade2.csproj.AssemblyReference.cache
+C:\Users\kkpfe\Desktop\Репетиторство\Задание от Вовы\Прога 4 База бригад\С#\BaseBrigade2\BaseBrigade2\obj\Debug\BaseBrigade2.csproj.CoreCompileInputs.cache
+C:\Users\kkpfe\Desktop\Репетиторство\Задание от Вовы\Прога 4 База бригад\С#\BaseBrigade2\BaseBrigade2\obj\Debug\BaseBrigade2.exe
+C:\Users\kkpfe\Desktop\Репетиторство\Задание от Вовы\Прога 4 База бригад\С#\BaseBrigade2\BaseBrigade2\obj\Debug\BaseBrigade2.pdb
